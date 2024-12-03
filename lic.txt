@@ -1,0 +1,3 @@
+This App is Developed by Shreya Jha under the guidance
+of Institution INCAPP. This App is used to track our expense.
+The App does not ask for any kind of special permissions.
